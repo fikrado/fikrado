@@ -4,10 +4,10 @@
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
-<a href="https://twitter.com/anuraghazru">
+<a href="https://twitter.com/mr__yahye">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
+<a href="https://youtube.com/c/FikradoHacker">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" />
 
 <br />
@@ -17,7 +17,6 @@
 
 - I’m looking to collaborate on Fikrado Organization 
 - I'm interested to work with machine learning web development and penateration testing
-- you connect with me email in fikrado1@gmail.com
 - Skills: Web-Dev / Python / PenTest / Soft_Dev
 
 
