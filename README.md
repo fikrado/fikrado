@@ -1,4 +1,5 @@
 <img src="/InShot_20201027_172944926.jpg">
+
 ### HI, I'M MR YAHYE :wave:
 
 <a href="https://fikrado.ml">
@@ -7,13 +8,6 @@
 <a href="https://twitter.com/mr__yahye">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<!---
-
-
-
-
-
----!>
 
 ### check me on social media
 
