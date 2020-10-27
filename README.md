@@ -13,10 +13,8 @@
 <a href="https://youtube.com/c/FikradoHacker">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" />
 
-
-
-<a href="https://youtube.com/c/FikradoHacker">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" />
+<a href="https://t.me/Mr_yahye">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111710.svg" />
 
 <a href="https://youtube.com/c/FikradoHacker">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" />
