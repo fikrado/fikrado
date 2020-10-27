@@ -8,13 +8,17 @@
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://youtube.com/c/FikradoHacker">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" />
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111728.svg" />
+
 <a href="https://youtube.com/c/FikradoHacker">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" />
+
 <a href="https://youtube.com/c/FikradoHacker">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" />
+
 <a href="https://youtube.com/c/FikradoHacker">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" />
+
 <a href="https://youtube.com/c/FikradoHacker">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" />
 
