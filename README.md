@@ -1,4 +1,4 @@
-Juul## Hi, I'm Mr Yahye :wave:
+<img src="/InShot_20201027_172944926.jpg">
 
 ### check me on Twitter
 <a href="https://fikrado.ml">
