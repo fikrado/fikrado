@@ -13,7 +13,12 @@
 <br />
 <br />
 
-Skills: Web-Dev / Python / PenTest / Soft_Dev
+### I created free online learning platform for low income somali youth who wants to learn pentest,python and web development
+
+- I’m looking to collaborate on Fikrado Organization 
+- I'm interested to work with machine learning web development and penateration testing
+- you connect with me email in fikrado1@gmail.com
+- Skills: Web-Dev / Python / PenTest / Soft_Dev
 
 
 
