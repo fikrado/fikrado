@@ -19,6 +19,8 @@ Skills: Web-Dev / Python / PenTest / Soft_Dev
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fikrado&show_icons=true&theme=radical&](https://github.com/anuraghazra/github-readme-stats)
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fikrado&repo=github-readme-stats" />
 </a>
