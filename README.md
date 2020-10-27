@@ -6,4 +6,4 @@ Skills: Web-Dev / Python / PenTest / Soft_Dev
 
 - 🔭 I’m currently working on IRC and Fikrado but open to new experience.
 
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Fikrado Hacker](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
