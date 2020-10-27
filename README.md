@@ -20,3 +20,4 @@ Skills: Web-Dev / Python / PenTest / Soft_Dev
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fikrado&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
