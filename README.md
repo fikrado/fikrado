@@ -4,6 +4,9 @@
 
 Skills: Web-Dev / Python / PenTest / Soft_Dev
 
-- 🔭 I’m currently working on IRC and Fikrado but open to new experience.
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-![Fikrado Hacker](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
