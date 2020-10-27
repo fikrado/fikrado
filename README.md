@@ -17,7 +17,7 @@
   <img align="left" alt="Anurag's Discord" width="21px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111710.svg" />
 
 <a href="https://youtube.com/c/FikradoHacker">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://www.flaticon.com/free-icon/outlook_732223?term=Gmail&page=1&position=76" />
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://www.flaticon.com/svg/static/icons/svg/732/732223.svg" />
 
 
 <br />
