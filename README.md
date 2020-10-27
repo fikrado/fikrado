@@ -1,7 +1,7 @@
 <img src="/InShot_20201027_172944926.jpg">
 
 ### HI, I'M MR YAHYE :wave:
-<a href="https://codesandbox.io/u/anuraghazra">
+<a href="https://www.linkedin.com/in/yahye-abdirahman-2726901a9">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a>
 <a href="https://twitter.com/mr__yahye">
