@@ -18,6 +18,8 @@
 
 <a href="https://youtube.com/c/FikradoHacker">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://www.flaticon.com/svg/static/icons/svg/732/732223.svg" />
+<a href="lioyahya3@gmail.com">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://logos.fandom.com/wiki/Gmail?file=Gmail_2020.svg" />
 
 
 <br />
