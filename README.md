@@ -10,9 +10,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
-____________________________________________________
 
 #### I'm a passion full stack Developer from east africa I created a online learning platform FIKRADO to help the low income people in somali who wants to learn web development python and pentesting you can check it at https://fikrado.ml
 
