@@ -32,10 +32,10 @@ Skills: Web-Dev / Python / PenTest / Soft_Dev
 </a>
 
 <a href="https://github.com/fikrado/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <!-- Change the `github-readme-stats.fikrado.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical" />
 </a>    
 <a href="https://github.com/fikrado/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=radical" />
+  <!-- Change the `github-readme-stats.fikrado.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.fikrado.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=radical" />
 </a>
