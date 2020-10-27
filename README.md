@@ -2,7 +2,7 @@
 
 ### HI, I'M MR YAHYE :wave:
 <a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a>
 <a href="https://twitter.com/mr__yahye">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
