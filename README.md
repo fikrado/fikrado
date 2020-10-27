@@ -2,8 +2,6 @@
 
 ### HI, I'M MR YAHYE :wave:
 
-### Connect with me:
-
 
 
 #### I'm a passion full stack Developer from east africa I created a online learning platform FIKRADO to help the low income people in somali who wants to learn web development python and pentesting you can check it at https://fikrado.ml
@@ -20,3 +18,4 @@ Skills: Web-Dev / Python / PenTest / Soft_Dev
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fikrado&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrado&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
