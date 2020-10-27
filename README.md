@@ -2,16 +2,13 @@
 
 ### HI, I'M MR YAHYE :wave:
 
-<a href="https://fikrado.ml">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
 <a href="https://twitter.com/mr__yahye">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
 ### 
 
-#### I'm a passion full stack Developer from east africa I created a online learning platform FIKRADO to help the low income people in somali who wants to learn web development python and pentesting
+#### I'm a passion full stack Developer from east africa I created a online learning platform FIKRADO to help the low income people in somali who wants to learn web development python and pentesting you can check it at https://fikrado.ml
 
 Skills: Web-Dev / Python / PenTest / Soft_Dev
               
