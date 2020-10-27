@@ -15,10 +15,13 @@
 
 ### I created free online learning platform for low income somali youth who wants to learn pentest,python and web development
 
-- I’m looking to collaborate on Fikrado Organization 
+__________________________________
+- I’m looking to collaborate on Fikrado Organization
+__________________________________
 - I'm interested to work with machine learning web development and penateration testing
+__________________________________
 - Skills: Web-Dev / Python / PenTest / Soft_Dev
-
+__________________________________
 
 
 <br />
