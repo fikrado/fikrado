@@ -25,7 +25,7 @@
 <br />
 <br />
 
-### I created free online learning platform for low income somali youth who wants to learn pentest,python and web development
+### I created free online learning platform for low income somali youth who wants to learn pentest,python and web development check it at https://fikrado.ml
 
 __________________________________
 - I’m looking to collaborate on Fikrado Organization
