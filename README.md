@@ -64,4 +64,4 @@ __________________________________
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 
-<img height="200" src="https://edube.org/uploads/media/default/0001/01/29ed2aa31a1a26221e4eac3b69d973a33cbf562e.png">
+
