@@ -1,7 +1,7 @@
 ## Find Fikrado on :
 [![Github](https://img.shields.io/badge/Github-fikrado-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
 [![Instagram](https://img.shields.io/badge/IG-%67mr__yahye-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/mr__yahe)
-[![Messenger](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/fikrado_hacker)
+[![Messenger](https://img.shields.io/badge/TM-%47telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/fikrado_hacker)
 [![Facebook](https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=Facebook)](https://facebook.com/fikrado4048063)
 [![youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube)](https://youtube.com/c/FikradoHacker)
 
