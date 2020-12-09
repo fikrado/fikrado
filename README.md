@@ -1,9 +1,14 @@
 ## Find me on social media :
 [![Github](https://img.shields.io/badge/Github-fikrado-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
+
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-%47mr__yahye-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/mr__yahe)
+
 [![Messenger](https://img.shields.io/badge/TELAGRAM-%47telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/fikrado_hacker)
+
 [![Facebook](https://img.shields.io/badge/FACEBOOK-%47facebook-black?style=for-the-badge&logo=Facebook)](https://facebook.com/fikrado4048063)
+
 [![youtube](https://img.shields.io/badge/YouTube-%47YouTube-red?style=for-the-badge&logo=Youtube)](https://youtube.com/c/FikradoHacker)
+
 [![youtube](https://img.shields.io/badge/100k-%47#100-red?style=for-the-badge&logo=Youtube)](https://youtube.com/c/FikradoHacker)
 
 <img src="/InShot_20201027_172944926.jpg">
