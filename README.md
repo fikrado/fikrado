@@ -1,11 +1,11 @@
 <h1> Find me on social media : </h1>
 
 [![Github](https://img.shields.io/badge/Github-fikrado-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
-[![Github](https://img.shields.io/badge/Facebook-fikrado-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
-[![Github](https://img.shields.io/badge/Youtube-FikradoHacker-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
-[![Github](https://img.shields.io/badge/TELEGRAM-MR_yahye-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
-[![Github](https://img.shields.io/badge/Twitter-mr_yahye-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
-[![Github](https://img.shields.io/badge/100k-fikrado-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
+[![Github](https://img.shields.io/badge/Facebook-fikrado-black?style=for-the-badge&logo=facebook)](https://facebook.com/fikrado4048063)
+[![Github](https://img.shields.io/badge/Youtube-FikradoHacker-red?style=for-the-badge&logo=github)](https://github.com/fikrado)
+[![Github](https://img.shields.io/badge/TELEGRAM-MR_yahye-blue?style=for-the-badge&logo=github)](https://github.com/fikrado)
+[![Github](https://img.shields.io/badge/Twitter-mr_yahye-LightSeaGreen?style=for-the-badge&logo=github)](https://github.com/fikrado)
+
 
 
 <img src="/InShot_20201027_172944926.jpg">
