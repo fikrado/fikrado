@@ -60,6 +60,7 @@ __________________________________
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fikrado&show_icons=true&theme=tokoy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrado&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fikrado&repo=github-readme-stats)](https://github.com/fikrado/fikrado.py)
 
 
 
