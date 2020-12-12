@@ -4,8 +4,8 @@
 [![Github](https://img.shields.io/badge/Facebook-fikrado-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
 [![Github](https://img.shields.io/badge/Youtube-FikradoHacker-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
 [![Github](https://img.shields.io/badge/TELEGRAM-fikrado-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
-[![Github](https://img.shields.io/badge/Github-fikrado-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
-[![Github](https://img.shields.io/badge/Github-fikrado-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
+[![Github](https://img.shields.io/badge/Twitter-fikrado-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
+[![Github](https://img.shields.io/badge/#100k-fikrado-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
 
 
 <img src="/InShot_20201027_172944926.jpg">
