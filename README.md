@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/badge/Github-fikrado-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
 [![Github](https://img.shields.io/badge/Facebook-fikrado-black?style=for-the-badge&logo=facebook)](https://facebook.com/fikrado4048063)
-[![Github](https://img.shields.io/badge/Youtube-FikradoHacker-red?style=for-the-badge&logo=YouTube](https://youtube.com/c/FikradoHacker)
+[![Github](https://img.shields.io/badge/YouTube-fikrado_hacker-red?style=for-the-badge&logo=youtube](https://youtube.com/c/FikradoHacker)
 [![Github](https://img.shields.io/badge/TELEGRAM-MR_yahye-blue?style=for-the-badge&logo=telegram)](https://t.me/Mr_yahye)
 [![Github](https://img.shields.io/badge/Twitter-mr_yahye-aqua?style=for-the-badge&logo=twitter)](https://twitter.com/Mr__yahye)
 
