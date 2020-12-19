@@ -1,4 +1,4 @@
-## Find me on social links
+### Find me on social media
 
 [![Github](https://img.shields.io/badge/Github-fikrado-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
 [![Github](https://img.shields.io/badge/Facebook-fikrado-black?style=for-the-badge&logo=facebook)](https://facebook.com/fikrado4048063)
