@@ -1,5 +1,5 @@
 
-<img heithgt="100" src="/InShot_20201027_172944926.jpg">
+<img heigh="150" src="/InShot_20201027_172944926.jpg">
 
 ### HI, I'M MR YAHYE :wave:
 <a href="https://www.linkedin.com/in/yahye-abdirahman-2726901a9">
@@ -57,6 +57,15 @@ __________________________________
 
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+
+### Find me on social media
+
+[![Github](https://img.shields.io/badge/Github-fikrado-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
+[![Github](https://img.shields.io/badge/Facebook-fikrado-blue?style=for-the-badge&logo=facebook)](https://facebook.com/fikrado4048063)
+[![Github](https://img.shields.io/badge/WhatsApp-Mr_Yahye-lightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=252634048063)
+[![Github](https://img.shields.io/badge/TELEGRAM-MR_Yahye-orange?style=for-the-badge&logo=telegram)](https://t.me/Mr_yahye)
+[![Github](https://img.shields.io/badge/Twitter-mr_yahye-aqua?style=for-the-badge&logo=twitter)](https://twitter.com/Mr__yahye)
 
 
 
