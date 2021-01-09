@@ -1,7 +1,7 @@
 
 <img height="400" src="/InShot_20201027_172944926.jpg">
 
-### HI, I'M MR YAHYE :wave:
+### HI, I'M MR YAHYE :electron:
 <a href="https://www.linkedin.com/in/yahye-abdirahman-2726901a9">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a>
@@ -26,7 +26,7 @@
 <br />
 <br />
 <a></a>
-I created free online learning platform for low income somali youth who wants to learn pentest,python and web development check it at https://fikrado.ml
+you look lost you can contact me in the above :up: social media or my web site https://fikrado.ml
 
 
 __________________________________
