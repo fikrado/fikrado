@@ -1,5 +1,5 @@
 
-<img height="200" src="/20210110_015141.jpg">
+<img height="100" src="/20210110_015141.jpg">
 
 ### HI, I'M MR YAHYE :electron:
 <a href="https://www.linkedin.com/in/yahye-abdirahman-2726901a9">
