@@ -44,7 +44,7 @@ __________________________________
 
 
 ![fikrado's github stats](https://github-readme-stats.vercel.app/api?username=fikrado&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrado&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrado&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
