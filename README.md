@@ -1,6 +1,6 @@
-
-<img height="200" src="/20210110_015141.jpg">
-
+<p aligin="center">
+ <img height="200" src="/20210110_015141.jpg">
+</p>
 ### HI, I'M MR YAHYE :electron:
 <a href="https://www.linkedin.com/in/yahye-abdirahman-2726901a9">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
