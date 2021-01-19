@@ -1,5 +1,5 @@
 <p aligin="center">
- <img height="200" src="/20210110_015141.jpg">
+ <img wifth="50px" height="200" src="/20210110_015141.jpg">
 </p>
 ### HI, I'M MR YAHYE :electron:
 <a href="https://www.linkedin.com/in/yahye-abdirahman-2726901a9">
