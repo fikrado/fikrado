@@ -4,6 +4,24 @@
 
 <h1> HI, I'M MR YAHYE :electron: </h1>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## CONTACT ME ⬇️
 <a href="https://www.linkedin.com/in/yahye-abdirahman-2726901a9">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a>
@@ -25,23 +43,6 @@
   <img align="left" alt="Anurag's Discord" width="21px" src="https://static.wikia.nocookie.net/logopedia/images/d/d8/Gmail_2020.svg/revision/latest?cb=20201006151923" />
 
 
-<br />
-<br />
-<a></a>
-you look lost you can contact me in the above :up: social media or my web site https://fikrado.ml
-
-
-__________________________________
-- I’m looking to collaborate on Fikrado Organization
-__________________________________
-- I'm interested to work with machine learning web development and penateration testing
-__________________________________
-- Skills: Web-Dev / Python / PenTest / Soft_Dev
-__________________________________
-
-
-<br />
-<br />
               
 
 
