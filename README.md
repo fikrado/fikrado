@@ -51,10 +51,10 @@
 ##
 ##
 
-# I Invited You To Collaborate as at @fikrado-organization
+# I Invited You To Collaborate as at @fikrado-organisation
 
 
-<a href=https://github.com/fikrado-orgnasation">
+<a href="https://github.com/fikrado-orgnasation">
 
   <img align="center" alt="Yahye's Librabay" width="100px" src="/f.jpg" />
   
