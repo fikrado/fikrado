@@ -1,10 +1,8 @@
 <p aligin="center">
- <img wifth="50px" height="200" src="/20210110_015141.jpg">
+ <img height="WhatsApp Image 2021-03-09 at 19.47.02.jpeg">
 </p>
 
-<h1> HI, I'M MR YAHYE :electron: </h1>
-
-
+<h1> HELLO WORD I'M YAHYE :electron: </h1>
 
 
 
@@ -42,10 +40,3 @@
 
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-
-
-
-
-
-
