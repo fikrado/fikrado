@@ -54,7 +54,7 @@
 # I Invited You To Collaborate as at @fikrado-organization
 
 
-<a href="https://github.com/fikrado-organization">
+<a href=https://github.com/fikrado-orgnasation">
 
   <img align="center" alt="Yahye's Librabay" width="100px" src="/f.jpg" />
   
