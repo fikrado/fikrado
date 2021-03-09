@@ -2,22 +2,12 @@
  <img src="/WhatsApp Image 2021-03-09 at 19.47.02.jpeg">
 </p>
 
-<h1> HELLO WORD I'M YAHYE :electron: </h1>
+<h1> WHO IM I :electron: </h>
 
+## MY name is yahye for east africa 
+## I'm hacker, developer, student, teacher, athlate, social and social worker
+## I also creat the Fikrado Hacker cyber security 
 
-
-
-
-
-
-
-
-
-
-
-
-##
-##
 
 
 ## CONTACT ME ⬇️
