@@ -1,5 +1,5 @@
 <p aligin="center">
- <img src="/WhatsApp Image 2021-03-09 at 19.47.02.jpeg">
+ <img src="/y.jpg">
 </p>
 
 [![Github](https://img.shields.io/badge/Facebook-fikrado-blue?style=for-the-badge&logo=facebook)](https://facebook.com/fikrado4048063)
