@@ -42,9 +42,10 @@
   <img align="left" alt="Anurag's Discord" width="21px" src="https://static.wikia.nocookie.net/logopedia/images/d/d8/Gmail_2020.svg/revision/latest?cb=20201006151923" />
 
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------            
+            
 
 <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/aa85d2d130d984cdf495cc00fb32d0ce61b0cf9a/metrics.plugin.pagespeed.svg">
+
 ![fikrado's github stats](https://github-readme-stats.vercel.app/api?username=fikrado&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrado&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
