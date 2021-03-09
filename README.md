@@ -39,11 +39,10 @@
 
 <a href="https://youtube.com/c/FikradoHacker">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://www.flaticon.com/svg/static/icons/svg/732/732223.svg" />
-<a href="https://www.google.com/search?client=ms-android-samsung-gj-rev1&sxsrf=ALeKk00B_HxetcWRlbdGiJXIeWrFwzi8Gw%3A1603820330241&ei=KluYX6aUDoWU1fAP64WbiAM&q=lioyahya3%40gmail.com&oq=lioyahya3%40gmail.com&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAM6BAgjECdQ1RtY1Rtg0iJoAHAAeACAAe8CiAGFBZIBBTItMS4xmAEAoAEBwAEB&sclient=mobile-gws-wiz-serp">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://static.wikia.nocookie.net/logopedia/images/d/d8/Gmail_2020.svg/revision/latest?cb=20201006151923" />
 
 
-              
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------            
 
 
 ![fikrado's github stats](https://github-readme-stats.vercel.app/api?username=fikrado&show_icons=true&theme=tokyonight)
