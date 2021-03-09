@@ -31,12 +31,13 @@
 [![Github](https://img.shields.io/badge/Twitter-fikrado-aqua?style=for-the-badge&logo=twitter)](https://twitter.com/fikrao1)
             
 ##
-##>
+##
 
-<img src="https://raw.githubusercontent.com/lowlighter/lowlighter/aa85d2d130d984cdf495cc00fb32d0ce61b0cf9a/metrics.plugin.pagespeed.svg">
 
 ![fikrado's github stats](https://github-readme-stats.vercel.app/api?username=fikrado&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrado&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://raw.githubusercontent.com/lowlighter/lowlighter/aa85d2d130d984cdf495cc00fb32d0ce61b0cf9a/metrics.plugin.pagespeed.svg">
 
 
 
