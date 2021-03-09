@@ -18,7 +18,8 @@
 
 
 
-<!--------------------- points -----------------------------------!>
+##
+##
 
 
 ## CONTACT ME ⬇️
@@ -29,7 +30,8 @@
 [![Github](https://img.shields.io/badge/TELEGRAM-MR_Yahye-orange?style=for-the-badge&logo=telegram)](https://t.me/Mr_yahye)
 [![Github](https://img.shields.io/badge/Twitter-fikrado-aqua?style=for-the-badge&logo=twitter)](https://twitter.com/fikrao1)
             
-<!--------------------- points -----------------------------------!>
+##
+##>
 
 <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/aa85d2d130d984cdf495cc00fb32d0ce61b0cf9a/metrics.plugin.pagespeed.svg">
 
