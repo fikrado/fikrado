@@ -44,18 +44,18 @@
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------            
 
-
+<img src="https://raw.githubusercontent.com/lowlighter/lowlighter/aa85d2d130d984cdf495cc00fb32d0ce61b0cf9a/metrics.plugin.pagespeed.svg">
 ![fikrado's github stats](https://github-readme-stats.vercel.app/api?username=fikrado&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrado&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://raw.githubusercontent.com/lowlighter/lowlighter/aa85d2d130d984cdf495cc00fb32d0ce61b0cf9a/metrics.plugin.pagespeed.svg">
+
 
 
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 
-### Find me on social media
+
 
 [![Github](https://img.shields.io/github/followers/fikrado?style=social)](https://github.com/fikrado)
 [![Github](https://img.shields.io/badge/Facebook-fikrado-blue?style=for-the-badge&logo=facebook)](https://facebook.com/fikrado4048063)
