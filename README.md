@@ -7,7 +7,7 @@
 [![Github](https://img.shields.io/badge/TELEGRAM-MR_Yahye-orange?style=for-the-badge&logo=telegram)](https://t.me/Mr_yahye)
 [![Github](https://img.shields.io/badge/Twitter-fikrado-aqua?style=for-the-badge&logo=twitter)](https://twitter.com/fikrao1)
 
-<h1> WHO IM I :electron: </h>
+<h1> WHO AM I :electron: </h>
 
 ### MY name is yahye for east africa 
 ### I'm hacker, developer, student, teacher, athlate, entrepreneur and social worker
