@@ -1,5 +1,5 @@
 <p aligin="center">
- <img height="WhatsApp Image 2021-03-09 at 19.47.02.jpeg">
+ <img height="/WhatsApp Image 2021-03-09 at 19.47.02.jpeg">
 </p>
 
 <h1> HELLO WORD I'M YAHYE :electron: </h1>
@@ -22,11 +22,12 @@
 
 ## CONTACT ME ⬇️
 
-[![Github](https://img.shields.io/github/followers/fikrado?style=social)](https://github.com/fikrado)
+
 [![Github](https://img.shields.io/badge/Facebook-fikrado-blue?style=for-the-badge&logo=facebook)](https://facebook.com/fikrado4048063)
 [![Github](https://img.shields.io/badge/WhatsApp-Mr_Yahye-lightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=252634048063)
 [![Github](https://img.shields.io/badge/TELEGRAM-MR_Yahye-orange?style=for-the-badge&logo=telegram)](https://t.me/Mr_yahye)
 [![Github](https://img.shields.io/badge/Twitter-fikrado-aqua?style=for-the-badge&logo=twitter)](https://twitter.com/fikrao1)
+[![Github](https://img.shields.io/github/followers/fikrado?style=social)](https://github.com/fikrado)
             
 ##
 ##
