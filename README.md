@@ -13,7 +13,7 @@
 ### I'm hacker, developer, student, teacher, athlate, entrepreneur and social worker
 ### I also creat the Fikrado Hacker cyber security 
 ### My goals in this year is to make more freinds, contribute more, find more bugs and achive my dreams
-### Fun fact about me a'm hacker who sam times use windows
+### Fun fact about me I love cats and I had 11 cats in my house insane Yeah!!
 
 ##
 
