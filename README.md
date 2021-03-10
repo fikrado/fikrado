@@ -11,7 +11,7 @@
 
 ### MY name is yahye for east africa 
 ### I'm hacker, developer, student, teacher, athlate, entrepreneur and social worker
-### I also creat the Fikrado Hacker cyber security 
+### I also created Fikrado Hacker cyber security organization in East Africa
 ### My goals in this year is to make more freinds, contribute more, find more bugs and achive my dreams
 ### Fun fact about me I love cats and I had 11 cats in my house insane Yeah!!
 
