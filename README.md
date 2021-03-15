@@ -15,7 +15,8 @@
 ### My goals in this year is to make more freinds, contribute more, find more bugs and achive my dreams
 ### Fun fact about me I love cats and I had 11 cats in my house insane Yeah!!
 
-##
+##__________________________________________________________________________________________________
+
 
 # TOP TOOLS AND LANGUEGES I LOVE :
 
@@ -48,13 +49,14 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://pbs.twimg.com/profile_images/1278681947531644928/Gpj6Vi6h_400x400.jpg" />
 
             
-##
+##__________________________________________________________________________________________________
 
 # listen to spotify
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-##
+##__________________________________________________________________________________________________
+
 
 # I Invited You To Collaborate as at @fikrado-organisation
 
