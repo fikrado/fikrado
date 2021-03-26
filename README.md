@@ -1,6 +1,9 @@
 <p aligin="center">
  <img src="/y_50.jpg">
 </p>
+[![Github](https://img.shields.io/badge/Facebook-fikrado-green?style=for-the-badge&logo=facebook)](https://facebook.com/fikrado4048063)
+[![Github](https://img.shields.io/badge/TELEGRAM-MR_Yahye-white?style=for-the-badge&logo=telegram)](https://t.me/Mr_yahye)
+[![Github](https://img.shields.io/badge/Twitter-fikrado-red?style=for-the-badge&logo=twitter)](https://twitter.com/fikrao1)
 
 
 <h1> WHO AM I :electron: </h>
@@ -12,10 +15,6 @@
 ### Fun fact about me I love cats and I had 11 cats in my house insane Yeah!!
 
 __________________________________________________________________________________________________
-## contact me
-[![Github](https://img.shields.io/badge/Facebook-fikrado-green?style=for-the-badge&logo=facebook)](https://facebook.com/fikrado4048063)
-[![Github](https://img.shields.io/badge/TELEGRAM-MR_Yahye-white?style=for-the-badge&logo=telegram)](https://t.me/Mr_yahye)
-[![Github](https://img.shields.io/badge/Twitter-fikrado-red?style=for-the-badge&logo=twitter)](https://twitter.com/fikrao1)
 ## check my tiktok
 [![Github](https://img.shields.io/badge/Tiktok-fikrado-yellow?style=for-the-badge&logo=Tiktok)](https://tiktok.com/@fikrado)
 
