@@ -16,7 +16,7 @@
 ### Fun fact about me I love cats and I had 11 cats in my house insane Yeah!!
 
 __________________________________________________________________________________________________
-## check my tiktok
+## Check my tiktok
 [![Github](https://img.shields.io/badge/Tiktok-fikrado-yellow?style=for-the-badge&logo=Tiktok)](https://tiktok.com/@fikrado)
 
 # TOP TOOLS AND LANGUEGES I LOVE :
@@ -48,6 +48,10 @@ ________________________________________________________________________________
 <img align="left" alt="Visual Studio Code" width="26px" src="https://nmap.org/images/nmap-logo-256x256.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://pbs.twimg.com/profile_images/1278681947531644928/Gpj6Vi6h_400x400.jpg" />
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://tryhackme.com/img/favicon.png" />
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://pbs.twimg.com/profile_images/503644334588039168/iH_pnqKE_400x400.png" />
 
 __________________________________________________________________________________________________            
 __________________________________________________________________________________________________
