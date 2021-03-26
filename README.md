@@ -1,12 +1,13 @@
 <p aligin="center">
  <img src="/y_50.jpg">
 </p>
+
 [![Github](https://img.shields.io/badge/Facebook-fikrado-green?style=for-the-badge&logo=facebook)](https://facebook.com/fikrado4048063)
 [![Github](https://img.shields.io/badge/TELEGRAM-MR_Yahye-white?style=for-the-badge&logo=telegram)](https://t.me/Mr_yahye)
 [![Github](https://img.shields.io/badge/Twitter-fikrado-red?style=for-the-badge&logo=twitter)](https://twitter.com/fikrao1)
 
 
-<h1> WHO AM I :electron: </h>
+<h1> WHO AM I :electron: </h1>
 
 ### My name is yahye for east africa 
 ### I'm hacker, developer, student, teacher, athlate, entrepreneur and social worker
