@@ -2,22 +2,22 @@
  <img src="/y_50.jpg">
 </p>
 
-[![Github](https://img.shields.io/badge/Facebook-fikrado-green?style=for-the-badge&logo=facebook)](https://facebook.com/fikrado4048063)
-[![Github](https://img.shields.io/badge/TELEGRAM-MR_Yahye-white?style=for-the-badge&logo=telegram)](https://t.me/Mr_yahye)
-[![Github](https://img.shields.io/badge/Twitter-fikrado-red?style=for-the-badge&logo=twitter)](https://twitter.com/fikrao1)
-## check my tiktok
-[![Github](https://img.shields.io/badge/Tiktok-fikrado-yellow?style=for-the-badge&logo=Tiktok)](https://tiktok.com/@fikrado)
 
 <h1> WHO AM I :electron: </h>
 
-### MY name is yahye for east africa 
+### My name is yahye for east africa 
 ### I'm hacker, developer, student, teacher, athlate, entrepreneur and social worker
 ### I also created Fikrado Hacker cyber security organization in East Africa
 ### My goals in this year is to make more freinds, contribute more, find more bugs and achive my dreams
 ### Fun fact about me I love cats and I had 11 cats in my house insane Yeah!!
 
 __________________________________________________________________________________________________
-
+### contact me
+[![Github](https://img.shields.io/badge/Facebook-fikrado-green?style=for-the-badge&logo=facebook)](https://facebook.com/fikrado4048063)
+[![Github](https://img.shields.io/badge/TELEGRAM-MR_Yahye-white?style=for-the-badge&logo=telegram)](https://t.me/Mr_yahye)
+[![Github](https://img.shields.io/badge/Twitter-fikrado-red?style=for-the-badge&logo=twitter)](https://twitter.com/fikrao1)
+### check my tiktok
+[![Github](https://img.shields.io/badge/Tiktok-fikrado-yellow?style=for-the-badge&logo=Tiktok)](https://tiktok.com/@fikrado)
 
 # TOP TOOLS AND LANGUEGES I LOVE :
 
