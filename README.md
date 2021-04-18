@@ -53,7 +53,18 @@ ________________________________________________________________________________
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://pbs.twimg.com/profile_images/503644334588039168/iH_pnqKE_400x400.png" />
 
-__________________________________________________________________________________________________            
+ 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://e7.pngegg.com/pngimages/211/917/png-clipart-pycharm-integrated-development-environment-jetbrains-intellij-idea-python-others-miscellaneous-angle.png" />
+
+<img align="left" alt="Visual Studio Code" width="26px" src="http://2.bp.blogspot.com/-kTGcDeaB_ME/UR0C7ZZG_cI/AAAAAAAAAA0/L5HxrT9Ms9k/s1600/title.png" />
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://nest.parrotsec.org/uploads/-/system/project/avatar/32/airgeddon_logo.png" />
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2016/04/icon_9.png" />
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" />
+
+
 __________________________________________________________________________________________________
 ##
 
