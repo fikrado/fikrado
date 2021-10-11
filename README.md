@@ -65,9 +65,6 @@ ________________________________________________________________________________
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" />
 
 
-__________________________________________________________________________________________________
-
-__________________________________________________________________________________________________
 
 
 ## Check out my cyper security organization fikrado hacker website
