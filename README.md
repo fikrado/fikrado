@@ -62,19 +62,13 @@ ________________________________________________________________________________
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2016/04/icon_9.png" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" />
+-----
 
 
 
 
-## Check out my cyper security organization fikrado hacker website
 
 
-<a href="http://fikrado.ml">
-
-
-  <img align="center" alt="Yahye's Librabay" width="100px" src="/f.jpg" />
-  
   
 ##
 ##
