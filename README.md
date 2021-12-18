@@ -47,7 +47,6 @@ ________________________________________________________________________________
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://nmap.org/images/nmap-logo-256x256.png" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://pbs.twimg.com/profile_images/1278681947531644928/Gpj6Vi6h_400x400.jpg" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://tryhackme.com/img/favicon.png" />
 
