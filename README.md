@@ -16,7 +16,7 @@
 
 ### My name is yahye for east africa 
 ### I'm hacker, developer, student, teacher, athlate, entrepreneur and social worker
-### I'am the author of books isbar macalin IT books to teach your self with out teacher  programing, ethical hacking, and it in somali langue
+### I'am the author of books isbar macalin IT books to teach your self with out teacher  programing, ethical hacking, and it in somali language
 ### I also created Fikrado Hacker cyber security organization in East Africa
 ### My goals in this year is to make more freinds, contribute more, find more bugs and achive my dreams
 ### Fun fact about me I love cats and I had 11 cats in my house insane Yeah!!
