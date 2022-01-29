@@ -18,52 +18,51 @@
 # Languages Tools Framworks I LOVE 💌
 
 <td> <!--- Contents for "🧠Languages🧠" -->
-        <p align="center"> <!--- P tag to align contents -->
+    <p align="center"> <!--- P tag to align contents -->
 
-        <a href="https://www.javascript.com/">
-          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-        </a>
-        <a href="https://www.postgresql.org/">
-          <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-        </a>
+    <a href="https://www.javascript.com/">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    </a>
+    <a href="https://www.postgresql.org/">
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    </a>
 
-        <a href="https://www.w3schools.com/html/">
-          <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-        </a>
+    <a href="https://www.w3schools.com/html/">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    </a>
 
-        <a href="https://www.python.org/">
-          <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-        </a>
-        <a href="https://dart.dev/">
-          <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-        </a>
-        <a href="https://www.w3schools.com/css/">
-          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-        </a>
+    <a href="https://www.python.org/">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    </a>
+    <a href="https://dart.dev/">
+      <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+    </a>
+    <a href="https://www.w3schools.com/css/">
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    </a>
 
-          <p align="center"> <!--- P tag to align contents -->
-        <a href="https://www.adobe.com/africa/products/dreamweaver.html">
-          <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white">
-        </a>
-        <a href="https://www.adobe.com/africa/products/photoshop.html">
-          <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-        </a>
-        <a href="https://get.adobe.com/reader/">
-          <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white">
-        </a>
+      <p align="center"> <!--- P tag to align contents -->
+    <a href="https://www.adobe.com/africa/products/dreamweaver.html">
+      <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white">
+    </a>
+    <a href="https://www.adobe.com/africa/products/photoshop.html">
+      <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+    </a>
+    <a href="https://get.adobe.com/reader/">
+      <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white">
+    </a>
 
-        <a href="https://www.gimp.org/">
-          <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF">
-        </p>
-        <p align="center"> <!--- P tag to align contents -->
-        <a href="https://github.com/features/actions">
-          <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
-        </a>
-        <a href="https://about.gitlab.com/">
-          <img src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
-        </a>
-       
-        </p>
+    <a href="https://www.gimp.org/">
+      <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF">
+    </p>
+    <p align="center"> <!--- P tag to align contents -->
+    <a href="https://github.com/features/actions">
+      <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
+    </a>
+    <a href="https://about.gitlab.com/">
+      <img src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+    </a>
+
 </td>  
 
 
