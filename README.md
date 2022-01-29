@@ -29,7 +29,11 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/fikrado).
 <!---------------------------------------------------------------------------------------------------------->
 
 
+## Leasting to spotify 
 
+![spotify-github-profile](/img/novatorem.svg)
+
+<!----------------------------------------------------->
 
 ![fikrado's github stats](https://github-readme-stats.vercel.app/api?username=fikrado&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrado&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
