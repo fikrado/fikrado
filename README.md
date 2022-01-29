@@ -7,7 +7,6 @@
 [![Github](https://img.shields.io/badge/Twitter-fikrado-red?style=for-the-badge&logo=twitter)](https://twitter.com/fikrao1)
 [![Github](https://img.shields.io/badge/Tiktok-fikrado-black?style=for-the-badge&logo=Tiktok)](https://tiktok.com/@fikrado)
 
-I'm looking for [GitHub sponsors](https://github.com/sponsors/fikrado).
 
 <a href="https://github.com/sponsors/fikrado">
   <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
@@ -20,7 +19,9 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/fikrado).
 ### I also created Fikrado Hacker cyber security organization in East Africa
 ### My goals in this year is to make more freinds, contribute more, find more bugs and achive my dreams
 ### Fun fact about me I love cats and I had 11 cats in my house insane Yeah!!
-
+<!---------------------------------------------------- scetion ---------------------------------------------->
+I'm looking for [GitHub sponsors](https://github.com/sponsors/fikrado).
+<!---------------------------------------------------- scetion ---------------------------------------------->
 # Languages Tools Framworks I LOVE 💌
 
 <!---------------------------------------------------- scetion ---------------------------------------------->
