@@ -7,6 +7,12 @@
 [![Github](https://img.shields.io/badge/Twitter-fikrado-red?style=for-the-badge&logo=twitter)](https://twitter.com/fikrao1)
 [![Github](https://img.shields.io/badge/Tiktok-fikrado-black?style=for-the-badge&logo=Tiktok)](https://tiktok.com/@fikrado)
 
+I'm looking for [GitHub sponsors](https://github.com/sponsors/fikrado).
+
+<a href="https://github.com/sponsors/fikrado">
+  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
+</a>
+
 <h1> WHO AM I :electron: </h1>
 
 ### My name is yahye for east africa 
@@ -24,16 +30,6 @@
 
 
 
-<a href="https://github.com/fikrado/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/fikrado/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=fikrado&column=8&theme=gruvbox&no-frame=true"/>
-</a>
-
-I'm looking for [GitHub sponsors](https://github.com/sponsors/fikrado).
-
-<a href="https://github.com/sponsors/fikrado">
-  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
-</a>
 
 ![fikrado's github stats](https://github-readme-stats.vercel.app/api?username=fikrado&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrado&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -46,4 +42,7 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/fikrado).
 
 
 
-
+<a href="https://github.com/fikrado/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/fikrado/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=fikrado&column=8&theme=gruvbox&no-frame=true"/>
+</a>
