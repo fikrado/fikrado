@@ -16,7 +16,8 @@
 ### Fun fact about me I love cats and I had 11 cats in my house insane Yeah!!
 
 # Languages Tools Framworks I LOVE 💌
- <td> <!--- Contents for "🧠Languages🧠" -->
+
+<td> <!--- Contents for "🧠Languages🧠" -->
         <p align="center"> <!--- P tag to align contents -->
 
         <a href="https://www.javascript.com/">
