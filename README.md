@@ -1,5 +1,5 @@
 <p aligin="center">
- <img src="/y_50.jpg">
+ <img src="/y_50.png">
 </p>
 
 [![Github](https://img.shields.io/badge/Facebook-fikrado-purple?style=for-the-badge&logo=facebook)](https://facebook.com/fikrado4048063)
