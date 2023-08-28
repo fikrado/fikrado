@@ -2,10 +2,10 @@
  <img src="/y_50.png">
 </p>
 
-[![Github](https://img.shields.io/badge/Facebook-fikrado-purple?style=for-the-badge&logo=facebook)](https://facebook.com/fikrado4048063)
-[![Github](https://img.shields.io/badge/TELEGRAM-MR_Yahye-purple?style=for-the-badge&logo=telegram)](https://t.me/Mr_yahye)
+[![Github](https://img.shields.io/badge/Facebook-fikrado-purple?style=for-the-badge&logo=facebook)](https://facebook.com/fikrad0)
+[![Github](https://img.shields.io/badge/TELEGRAM-MR_Yahye-purple?style=for-the-badge&logo=telegram)](https://t.me/fikrado_hacker)
 [![Github](https://img.shields.io/badge/Twitter-fikrado-purple?style=for-the-badge&logo=twitter)](https://twitter.com/fikrao1)
-[![Github](https://img.shields.io/badge/Tiktok-fikrado-purple?style=for-the-badge&logo=Tiktok)](https://tiktok.com/@fikrado)
+
 
 
 <a href="https://github.com/sponsors/fikrado">
