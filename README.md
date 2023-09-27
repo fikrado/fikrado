@@ -15,7 +15,7 @@
 <h1> WHO AM I :electron: </h1>
 
 ### who is yahye Abdirahman 
-### he is  hacker, developer, student, teacher, athlate, entrepreneur and social worker
+### he is  hacker, developer, and network engineer
 ### he is the author of books isbar macalin IT books to teach your self with out teacher  programing, ethical hacking, and it in somali language
 ### he is also created Fikrado Hacker cyber security organization in East Africa
 ### he's goals in this year is to make more freinds, contribute more, find more bugs and achive my dreams
